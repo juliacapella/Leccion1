@@ -1,0 +1,10 @@
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\bin\Debug\leccion1cliente.exe.config
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\bin\Debug\leccion1cliente.exe
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\bin\Debug\leccion1cliente.pdb
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.Form1.resources
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.Properties.Resources.resources
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.exe
+C:\Users\julia\OneDrive\Escriptori\leccion1clienteform\leccion1cliente\obj\Debug\leccion1cliente.pdb
